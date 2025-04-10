@@ -11,7 +11,7 @@ def remove_punctuation(s):
 
 if __name__ == "__main__":
     print("Testing manipulate module")
-    test = "Fenerbahçe şampiyon"
+    test = "Ronnie Coleman"
     print("Reversed version:", reverse_string(test))
     print("Capitalized version:", capitalize_words(test))
     print("No punctuation version:", remove_punctuation(test))
